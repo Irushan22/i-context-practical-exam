@@ -194,6 +194,9 @@ h6 {
   line-height: 1;
 }
 @media (max-width: 768px) {
+  .intro-image {
+    height: 90vh;
+  }
   .into-wrapper {
     margin-top: 15vh;
     width: 100%;
