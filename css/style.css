@@ -166,7 +166,7 @@ h6 {
 .into-wrapper {
   position: absolute;
   z-index: 1;
-  /* margin-top: 30vh; */
+  margin-top: 30vh;
   width: 45%;
   padding: 20px;
   margin-left: 90px;
