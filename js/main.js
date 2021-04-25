@@ -244,6 +244,7 @@ jQuery(document).ready(function($) {
 $(".client-slider-wrapper .owl-carousel").owlCarousel({
   loop: true,
   nav: false,
+  dots:false,
   autoplay:true,
   autoplayTimeout:2000,
   responsive: {
